@@ -1,2 +1,4 @@
 banner.jpg: https://www.flickr.com/photos/149561324@N03/28821806878
 banner.mp4: https://www.youtube.com/watch?v=DLnwlKbvcjY
+bg.jpg: https://en.wikipedia.org/wiki/File:HCC_3D_printed_turbine_view_1.jpg
+cta01: https://pixabay.com/photos/3d-printing-3d-technology-tech-3758154/
